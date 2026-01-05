@@ -37,7 +37,9 @@ a:hover {
 
 
 img {
-  display: flow;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
   max-width: 600px;       
   width: 100%;             
   height: auto;           
